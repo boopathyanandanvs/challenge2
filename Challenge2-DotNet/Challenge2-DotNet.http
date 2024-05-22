@@ -1,0 +1,6 @@
+@Challenge2_DotNet_HostAddress = http://localhost:5119
+
+GET {{Challenge2_DotNet_HostAddress}}/AzureMetadata/
+Accept: application/json
+
+###
